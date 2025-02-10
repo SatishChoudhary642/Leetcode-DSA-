@@ -1,8 +1,7 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int n=nums.size();
-        int beg=0, end=n-1;
+        int beg=0, end=nums.size()-1;
         int mid=(beg + end )/2;
         while(beg<=end && nums[mid]!=target){
             if(nums[mid]<=target){
