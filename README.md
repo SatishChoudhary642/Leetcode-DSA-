@@ -28,4 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
+| [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
