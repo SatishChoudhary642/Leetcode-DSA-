@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0898-transpose-matrix) |
 | [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -76,8 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0326-power-of-three) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0326-power-of-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
