@@ -6,12 +6,7 @@ public:
         while(n<=k){
             int size=s.size();
             for(int i=0; i<size; i++){
-                if(s[i]=='z'){
-                    s.push_back('a');
-                }
-                else{
                     s.push_back(s[i]+1);
-                }
                 n++;
             }
         }
