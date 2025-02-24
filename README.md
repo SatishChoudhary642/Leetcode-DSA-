@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
