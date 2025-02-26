@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0898-transpose-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
