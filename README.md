@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2649-count-total-number-of-colored-cells) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
