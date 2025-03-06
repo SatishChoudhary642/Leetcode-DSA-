@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
