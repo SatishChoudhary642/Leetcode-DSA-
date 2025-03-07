@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
