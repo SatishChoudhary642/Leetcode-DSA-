@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
