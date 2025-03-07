@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
