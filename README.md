@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3463-alternating-groups-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -183,4 +184,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3463-alternating-groups-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
