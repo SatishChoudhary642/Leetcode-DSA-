@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1603-running-sum-of-1d-array) |
+| [3643-zero-array-transformation-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
