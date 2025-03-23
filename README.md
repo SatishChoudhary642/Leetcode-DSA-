@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0058-length-of-last-word) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2478-longest-nice-subarray) |
