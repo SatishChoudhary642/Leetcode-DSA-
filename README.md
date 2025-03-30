@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3462-vowels-game-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
