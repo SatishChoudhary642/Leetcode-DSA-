@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
