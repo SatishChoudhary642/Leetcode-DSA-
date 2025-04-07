@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
