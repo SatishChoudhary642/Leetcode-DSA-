@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
