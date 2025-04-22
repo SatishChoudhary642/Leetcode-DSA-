@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0319-bulb-switcher) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
