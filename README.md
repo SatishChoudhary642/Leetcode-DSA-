@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0319-bulb-switcher) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
