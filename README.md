@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0338-counting-bits) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
