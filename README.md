@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0319-bulb-switcher) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
@@ -388,5 +392,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
