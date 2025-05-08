@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0098-validate-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Design
 |  |
 | ------- |
