@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2481-strictly-palindromic-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2481-strictly-palindromic-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2998-count-symmetric-integers) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
