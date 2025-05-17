@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3379-score-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3379-score-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3462-vowels-game-in-a-string) |
