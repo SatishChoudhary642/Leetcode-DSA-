@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0075-sort-colors) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
