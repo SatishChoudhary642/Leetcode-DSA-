@@ -5,28 +5,29 @@ public:
             return word;
         }
 
-        vector<string> s;
-        char max = word[0];
+        vector<string> strings;
+        char max_char = word[0];
 
         for (int i = 1; i < word.size(); i++) {
-            if (word[i] > max) {
-                max = word[i];
-            }
-        }
-        for (int i = 0; i < word.size(); i++) {
-            if (word[i] == max) {
-                int ni = i;
-                int fl = numFriends - ni - 1;
-                int j = word.size() - fl;
-                string w = word.substr(i, j - i);
-                s.push_back(w);
+            if (word[i] > max_char) {
+                max_char = word[i];
             }
         }
 
-        string ans = s[0];
-        for (int i = 1; i < s.size(); i++) {
-            if (ans < s[i]) {
-                ans = s[i];
+        for (int i = 0; i < word.size(); i++) {
+            if (word[i] == max_char) {
+                int friends_till_i = i;
+                int friends_left = numFriends - friends_till_i - 1;
+                int j = word.size() - friends_left;
+                string s = word.substr(i, j - i);
+                strings.push_back(s);
+            }
+        }
+
+        string ans = strings[0];
+        for (int i = 1; i < strings.size(); i++) {
+            if (ans < strings[i]) {
+                ans = strings[i];
             } 
         }
         return ans;
