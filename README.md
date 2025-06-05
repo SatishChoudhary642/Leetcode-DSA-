@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
