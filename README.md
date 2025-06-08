@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2048-build-array-from-permutation) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0326-power-of-three) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2610-closest-prime-numbers-in-range) |
 ## String Matching
 |  |
