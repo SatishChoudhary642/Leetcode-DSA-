@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0898-transpose-matrix) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0383-ransom-note) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1500-count-largest-group) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0383-ransom-note) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
