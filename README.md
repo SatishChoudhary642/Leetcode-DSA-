@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
