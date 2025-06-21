@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2812-find-the-maximum-achievable-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3199-distribute-candies-among-children-i) |
