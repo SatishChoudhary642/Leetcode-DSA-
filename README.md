@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1635-number-of-good-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2690-house-robber-iv) |
