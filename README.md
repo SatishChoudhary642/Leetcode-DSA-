@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
