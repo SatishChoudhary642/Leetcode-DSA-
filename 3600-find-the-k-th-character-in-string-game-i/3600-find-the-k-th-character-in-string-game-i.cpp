@@ -8,6 +8,9 @@ public:
             for(int i=0; i<size; i++){
                     s.push_back(s[i]+1);
                 n++;
+                if(n==k){
+                    break;
+                }
             }
         }
         return s[k-1];
