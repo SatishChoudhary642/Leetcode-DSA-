@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0392-is-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
