@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0383-ransom-note) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
