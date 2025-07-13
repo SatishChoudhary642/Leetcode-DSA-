@@ -8,11 +8,8 @@ public:
             if(players[p]<=trainers[t]){
                 ans++;
                 p++;
-                t++;
             }
-            else{
-                t++;
-            }
+            t++;
         }
         return ans;
     }
