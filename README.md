@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2308-divide-array-into-equal-pairs) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
