@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0155-min-stack) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
