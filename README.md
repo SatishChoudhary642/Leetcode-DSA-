@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0164-maximum-gap) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
