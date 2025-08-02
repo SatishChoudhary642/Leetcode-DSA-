@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2665-minimum-time-to-repair-cars) |
+| [2689-rearranging-fruits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2705-minimum-impossible-or](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2705-minimum-impossible-or) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2689-rearranging-fruits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
