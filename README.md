@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2165-plates-between-candles](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2165-plates-between-candles) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2165-plates-between-candles](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2165-plates-between-candles) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2165-plates-between-candles](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2165-plates-between-candles) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1603-running-sum-of-1d-array) |
+| [2165-plates-between-candles](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2165-plates-between-candles) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3639-zero-array-transformation-i) |
