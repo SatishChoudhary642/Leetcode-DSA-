@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0392-is-subsequence) |
+| [0826-soup-servings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
@@ -656,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
