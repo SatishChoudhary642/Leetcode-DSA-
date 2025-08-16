@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1635-number-of-good-pairs) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
