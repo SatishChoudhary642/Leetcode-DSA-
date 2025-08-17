@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2262-solving-questions-with-brainpower) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0867-new-21-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -670,4 +673,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
