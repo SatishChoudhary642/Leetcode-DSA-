@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -692,5 +696,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
