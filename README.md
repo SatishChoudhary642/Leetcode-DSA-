@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3430-count-days-without-meetings) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3463-alternating-groups-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3483-alternating-groups-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Tree
