@@ -11,7 +11,7 @@ public:
         if(dp[ni][nj][dir][allow]!=-1){
             return dp[ni][nj][dir][allow];
         }
-        int no_turn=find(grid,ni,nj,dir,allow,2-target)+1; // if 0->2-0=2 | if 2 ->2-2=0
+        int no_turn=find(grid,ni,nj,dir,allow,2-target)+1; 
         int turn=0;
         if(allow){
             turn=find(grid,ni,nj,(dir+1)%4,false,2-target)+1;
