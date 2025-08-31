@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0059-spiral-matrix-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0128-longest-consecutive-sequence) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0077-combinations) |
