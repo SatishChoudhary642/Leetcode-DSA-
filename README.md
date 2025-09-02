@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3429-special-array-i) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3199-distribute-candies-among-children-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -724,4 +728,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
