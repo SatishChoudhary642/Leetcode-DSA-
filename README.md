@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1656-count-good-triplets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1635-number-of-good-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1917-maximum-average-pass-ratio) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
