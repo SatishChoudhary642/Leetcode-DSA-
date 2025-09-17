@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3194-find-words-containing-character) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -722,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
@@ -745,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
