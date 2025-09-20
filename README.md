@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3827-implement-router](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3827-implement-router) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -758,4 +763,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
