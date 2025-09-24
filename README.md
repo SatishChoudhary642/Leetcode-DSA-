@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0258-add-digits) |
