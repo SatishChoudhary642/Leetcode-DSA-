@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0900-reordered-power-of-2) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1448-maximum-69-number) |
