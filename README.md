@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3336-water-bottles-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3336-water-bottles-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3321-type-of-triangle](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
