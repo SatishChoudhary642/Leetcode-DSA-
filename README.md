@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2165-plates-between-candles](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2165-plates-between-candles) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0128-longest-consecutive-sequence) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0538-convert-bst-to-greater-tree) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -659,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [2793-count-the-number-of-complete-components](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2793-count-the-number-of-complete-components) |
 ## Brainteaser
 |  |
@@ -766,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SatishChoudhary642/Leetcode-DSA-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
